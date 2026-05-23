@@ -140,7 +140,7 @@ class Autokolcsonzo:
 
 
 def adatok_betoltese():
-    kolcsonzo = Autokolcsonzo("Villám Autókölcsönző")
+    kolcsonzo = Autokolcsonzo("Soós Autókölcsönző")
 
     auto1 = Szemelyauto("ABC-123", "BMW 330 (E46)", 15000, 5)
     auto2 = Szemelyauto("XYZ-456", "Honda Civic", 14000, 5)
